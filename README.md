@@ -1,2 +1,2 @@
 # Insertion Sort
- Sorting an array with selection sort
+ Sorting an array with insertion sort
